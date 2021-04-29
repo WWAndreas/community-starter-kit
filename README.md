@@ -1,6 +1,6 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+I am an App that helps working with GitHub by the aid of Mona, a Probot.
 
 ## What it does
 

@@ -7,7 +7,8 @@ I am an App that helps working with GitHub by the aid of Mona, a Probot.
 - having fun
 - working with a robot
 - nooooothing important at all
-- 
+
+
 ## Getting started
 
 1. [Install the bot](https://github.com/apps/welcome) on the intended repositories. The plugin requires the following **Permissions and Events**:

@@ -35,4 +35,7 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+Bot must be configured in the following way:
+- doglike appearance
+- barks whenever a change is made
+- wedelt mitm schwanz
